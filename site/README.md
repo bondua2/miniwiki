@@ -1,0 +1,1 @@
+This directory "SITE" is placed in here for my web traing project on Git and its files are training files to learn all the primary git settings and opportunities for the web pages of the git site on "https://bondua2.github.io/miniwiki/site"
