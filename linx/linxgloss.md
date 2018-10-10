@@ -7,7 +7,7 @@ top
 
 To get info about command location:
 ```
-which
+**which**
 ```
 
 **whoami** - to get user's info;
