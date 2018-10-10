@@ -7,7 +7,7 @@ top
 
 To get info about command location:
 ```
-**which**
+which
 ```
 
 **whoami** - to get user's info;
@@ -17,3 +17,5 @@ To get info about command location:
 `file` - to determine file type;
 
 **locate** - to find files by their name;
+
+**updatedb** - might be necessary for database of the *locate* command;
