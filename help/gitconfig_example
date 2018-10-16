@@ -1,3 +1,27 @@
+# to display all settings
+git config --list
+-------------------------------------------------
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+core.editor=nano
+remote.origin.url=https://github.com/bondua2/miniwiki.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+gui.wmstate=normal
+gui.geometry=893x435+130+130 175 196
+alias.st=status
+alias.hist=log --pretty=oneline
+alias.co=checkout
+user.name=Yurka
+color.ui=true
+
+-------------------------------------------------
+
 [core]
 	repositoryformatversion = 0
 	filemode = false
