@@ -1,0 +1,44 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+#	editor = notepad.exe
+	editor = nano
+[remote "origin"]
+	url = https://github.com/bondua2/miniwiki.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[gui]
+	wmstate = normal
+	geometry = 893x435+130+130 175 196
+[alias]
+	st=status
+	hist = log --pretty=oneline
+	co = checkout
+[user]
+	name = Yurka
+[color]
+	ui = true
+
+
+######
+
+#[help]
+#	format = info
+#[info]
+#	viewer = cat
+#[web]
+#	browser = firefox
+#[man]
+#	viewer = notepad.exe
+
+# You can use git config --global|local help.format "web|info|man"
+# Then web.browser "your browser"
+# Or man.viewer "your viewer"
+
+#file 'config' location is yourgit_folder/.git/config
