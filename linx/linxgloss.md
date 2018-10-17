@@ -1,3 +1,5 @@
+**ln** - to create links to apps;
+
 **cd** - to get to the home directory;
 
 To watch Task manager:
