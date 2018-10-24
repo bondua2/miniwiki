@@ -2,6 +2,10 @@
 
 **cd** - to get to the home directory;
 
+**whois** - to get info about web site;
+
+**nslookup** - to look up *dns* info;
+
 To watch Task manager:
 ```
 top
