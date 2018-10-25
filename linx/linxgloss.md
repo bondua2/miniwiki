@@ -2,7 +2,11 @@
 
 **cd** - to get to the home directory;
 
-**ls -d */** - to list only directories;
+
+To list only directories;
+```
+ls -d */
+```
 
 **whois** - to get info about web site;
 
