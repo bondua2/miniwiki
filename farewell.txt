@@ -2,3 +2,5 @@
 Farewell, cruel world!
 ----------------------
 I'm not going to hear from you anymore. Sorry :-(
+
+#Another line to varify git's work on s-host site; (date the 1st November 2018)
