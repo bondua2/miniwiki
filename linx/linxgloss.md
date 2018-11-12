@@ -31,3 +31,5 @@ which
 **locate** - to find files by their name;
 
 **updatedb** - might be necessary for database of the *locate* command;
+
+**free -m** - to watch free RAM;
