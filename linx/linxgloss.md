@@ -33,3 +33,5 @@ which
 **updatedb** - might be necessary for database of the *locate* command;
 
 **free -m** - to watch free RAM;
+
+**time curl -I mblog.smallroom.s-host.net** to get HTTP relpy (-v) for --verbose;
