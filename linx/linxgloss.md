@@ -34,4 +34,7 @@ which
 
 **free -m** - to watch free RAM;
 
-**time curl -I mblog.smallroom.s-host.net** to get HTTP relpy (-v) for --verbose;
+To get HTTP relpy (-v) for --verbose:
+```
+time curl -I mblog.smallroom.s-host.net
+```
