@@ -43,3 +43,10 @@ To route domain's trace with IP:
 ```
 sudo traceroute -I domain.com
 ```
+
+To add user/user's password and sudo rights:
+```
+# adduser username
+# usermod -aG sudo username
+# passwd username
+```
