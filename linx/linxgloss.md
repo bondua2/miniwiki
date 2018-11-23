@@ -38,3 +38,8 @@ To get HTTP relpy (-v) for --verbose:
 ```
 time curl -I mblog.smallroom.s-host.net
 ```
+
+To route domain's trace with IP:
+```
+sudo traceroute -I domain.com
+```
