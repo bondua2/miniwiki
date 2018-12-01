@@ -50,3 +50,8 @@ To add user/user's password and sudo rights:
 # usermod -aG sudo username
 # passwd username
 ```
+To add SSH keys to the host (public/private):
+```
+ssh-keygen -t rsa
+ssh-copy-id username@remotehost
+```
