@@ -160,7 +160,9 @@ tabn //next tab
 tabp //previous tab
 tab sp (split) //to split current tab
 Vex //file's tree
+Sex //file's tree (horizontal view)
 <C-w-hjkl> //navigation through tabs
+;press Ctrl+w, then Ctrl+h/j/k or l key;
 -----------------------------------------------------------------------
 
 === list of available options (autocompletion) ===
