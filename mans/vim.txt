@@ -159,7 +159,8 @@ tabs //list of tabs
 tabn //next tab
 tabp //previous tab
 tab sp (split) //to split current tab
-Vex //file's tree
+Vex //file's tree (or type :e. / :e .)
+;to search in a folder (/"your file"), then ('n' for next search)
 Sex //file's tree (horizontal view)
 <C-w-hjkl> //navigation through tabs
 ;press Ctrl+w, then Ctrl+h/j/k or l key;
