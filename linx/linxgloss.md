@@ -56,7 +56,7 @@ ssh-keygen -t rsa
 ssh-copy-id username@remotehost
 ```
 
-To can ports on host
+To scan ports on host
 ```
 nmap IP
 ```
