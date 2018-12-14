@@ -55,3 +55,8 @@ To add SSH keys to the host (public/private):
 ssh-keygen -t rsa
 ssh-copy-id username@remotehost
 ```
+
+To can ports on host
+```
+nmap IP
+```
