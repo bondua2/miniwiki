@@ -60,5 +60,6 @@ To scan ports on host
 ```
 nmap IP
 ```
-To see built-in commands in bash
+To see built-in commands in bash:
+
 **man bash-builtins**
