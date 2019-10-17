@@ -60,3 +60,39 @@ To scan ports on host
 ```
 nmap IP
 ```
+**Environment variable**
+```
+varname=varvalue
+echo $varname
+```
+To set a variable globally:
+```
+export varname
+export varname=varvalue
+declare -x varname
+```
+To display global vars:
+```
+export
+declare -x
+```
+To remove a variable:
+```
+unset varname
+```
+To reset a value of the variable:
+```
+varname=
+```
+To see a type of the command:
+```
+type set
+type env
+```
+**$OLDPWD** - a variable for a last working folder;
+
+add a new path to PATH variable:
+```
+PATH=$PATH:new_path
+```
+=================================
