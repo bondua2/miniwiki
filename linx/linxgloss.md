@@ -61,7 +61,7 @@ To scan ports on host
 nmap IP
 ```
 
-###Environment variable
+### Environment variable
 ```
 varname=varvalue
 echo $varname
