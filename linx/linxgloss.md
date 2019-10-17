@@ -60,8 +60,8 @@ To scan ports on host
 ```
 nmap IP
 ```
-<<<<<<< HEAD
-**Environment variable**
+
+###Environment variable**
 ```
 varname=varvalue
 echo $varname
@@ -97,8 +97,8 @@ add a new path to PATH variable:
 PATH=$PATH:new_path
 ```
 =================================
-=======
+
 To see built-in commands in bash:
 
 **man bash-builtins**
->>>>>>> a559140186a013d48e343dfd964dfdd6496cb7f4
+
