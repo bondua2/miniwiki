@@ -2,16 +2,19 @@
 {
  "name": "Rick",
  "id": 1,
- "city": "New York"
+ "city": "New York",
+ "email": "rick@yahoo.com"
 },
 {
  "name": "Jack",
  "id": 2,
- "city": "London"
+ "city": "London",
+ "email:" "jack2001@hotmail.com"
 },
 {
  "name": "Anna",
  "id": 3,
- "city": "Paris"
+ "city": "Paris",
+ "email": "annLee@gmail.com"
 }
 ]
